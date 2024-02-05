@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "class20240202"
 include(":app")
 include(":webview")
+include(":ch10_notification")
